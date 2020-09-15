@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-#### I'm Yuzhou Zhuang, currently a software development engineer at Amazon Prime Video.
+- 💻 I’m currently working with Amazon Prime Video team.
+- 🎨 I’m currently learning ukelele and procreate.
