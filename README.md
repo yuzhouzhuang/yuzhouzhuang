@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-- 💻 I’m currently working with Amazon Prime Video team.
-- 🎨 I’m currently learning ukelele and procreate.
+- ✌️ I’m currently learning ukelele and procreate.
