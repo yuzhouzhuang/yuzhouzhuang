@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-✌️ Currently learning ukelele and procreate.
+- 👨🏻‍💻 I’m currently working on developer experience for prime video living room platform.
+- 👨🏼‍🎨 I’m currently learning ukelele and procreate (which is actually once a year).
