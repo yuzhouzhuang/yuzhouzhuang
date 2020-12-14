@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m currently working on virtual device service for prime video living room platform.
+- 👨🏻‍💻 I’m currently working on virtual device service for Amazon Prime Video.
 - 👨🏼‍🎨 I’m currently learning ukelele and procreate.
