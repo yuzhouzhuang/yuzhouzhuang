@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m currently working with Amazon virtual device team.
-- 👨🏼‍🎨 I’m currently learning ukelele and procreate.
+- 👨🏻‍💻 I’m working with Amazon virtual device team.
+- 👨🏼‍🎨 I’m making animation with procreate.
