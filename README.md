@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m working with Amazon virtual device team.
-- 👨🏼‍🎨 I’m making animation with procreate.
+- 👨🏻‍💻 I’m working with Amazon Prime Video virtual device team.
