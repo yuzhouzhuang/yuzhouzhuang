@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m working with Amazon Prime Video virtual device team.
+- 👨🏻‍💻 I’m working with Amazon Prime Video - Living Room team.
